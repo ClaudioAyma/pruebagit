@@ -88,7 +88,7 @@
 							<ul class="nav nav-pills nav-main" id="mainMenu" style="width: 100%;">
 								<li class=" active">
 									<a data-hash href="#inicio">
-										Home
+										Leonel
 									</a>
 								</li>
 								<li>
